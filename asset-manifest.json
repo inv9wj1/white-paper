@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/white-paper/static/css/main.0fda1fe5.css",
+    "main.js": "/white-paper/static/js/main.fb1a69be.js",
+    "static/js/453.75543bd7.chunk.js": "/white-paper/static/js/453.75543bd7.chunk.js",
+    "static/media/whitePaperLogo.png": "/white-paper/static/media/whitePaperLogo.7c7d154302865b0b8fbf.png",
+    "index.html": "/white-paper/index.html",
+    "main.0fda1fe5.css.map": "/white-paper/static/css/main.0fda1fe5.css.map",
+    "main.fb1a69be.js.map": "/white-paper/static/js/main.fb1a69be.js.map",
+    "453.75543bd7.chunk.js.map": "/white-paper/static/js/453.75543bd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fda1fe5.css",
+    "static/js/main.fb1a69be.js"
+  ]
+}
